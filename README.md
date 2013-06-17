@@ -1,4 +1,4 @@
-studenthouseshare
+Student HouseShare
 =================
 
 Android Student App
